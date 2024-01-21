@@ -87,7 +87,7 @@ author:
   bio              : "I am a Biologist and Naturalist currently pursuing a PhD at University of Arkansas"
   location         : "Fayetteville, Arkansas, USA / Mumbai, Maharashtra, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wZAk5r8AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Shantanu-Joshi-2"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  #github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
