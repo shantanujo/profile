@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Shantanu Joshi"
-  avatar           : "https://github.com/shantanujo/profile/blob/master/ShantanuJoshi_Makunda%20Visitors-351.jpg"
+  avatar           : "/ShantanuJoshi_Makunda%20Visitors-351.jpg"
   bio              : "I am a Biologist and Naturalist currently pursuing a PhD at University of Arkansas"
   location         : "Fayetteville, Arkansas, USA / Mumbai, Maharashtra, India"
   employer         : University of Arkansas
